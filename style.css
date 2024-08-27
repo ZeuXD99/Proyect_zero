@@ -1,0 +1,58 @@
+*{
+    background: #F3F5FC;
+}
+
+.Logo{
+    width: 120px;
+    height: Fixed (48px)px;
+    top: 40px;
+    left: 40px;
+    gap: 40px;
+    opacity: 0px;
+}
+
+.Textbox{
+    margin-top: 168px;
+    margin-left: 240px;
+}
+
+.Area_texto {
+    width: 577px;
+    height: 48px;
+    font-family: 'Inter';
+    border: none;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 48px;
+    text-align: left;
+    color: #0A3871;
+    resize: none;
+}
+
+.Mensaje_Importante{
+    width:239px;
+    height:18px;
+    margin-top: 851px;
+    margin-left: 240px;
+    display: flex;
+    justify-content: flex-start;
+    gap: 8px;
+    border: 1px solid black;
+}
+
+.Mensaje_Importante_img{
+    width: Fixed (16px) px;
+    height: Fixed (16px) px;
+}
+
+.Mensaje_Importante_p{
+    width: Hug (205px)px;
+    height: Hug (18px)px;
+    font-family: 'Inter';
+    font-size: 12px;
+    font-weight: 400px;
+    line-height: 18px;
+    text-align: left;
+    opacity: 0.8px;
+}
+
